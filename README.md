@@ -1,3 +1,3 @@
 # training-js
 
-#### Criando CRUD Responsivo com JavaScript - Projeto de Cadastro Simples.
+#### CRUD Responsivo com JavaScript - Projeto de Cadastro Simples.
